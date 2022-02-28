@@ -1,0 +1,5 @@
+Muchachos,para poder conectar a la base de datos es necesario configurar el archivo "abrir_conexion.php"
+
+¡Ustedes pueden! :D
+
+P.D: Si quieren usar la misma base de datos, es el archivo "BASE DE DATOS.sql".
